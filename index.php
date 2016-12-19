@@ -14,6 +14,11 @@ and open the template in the editor.
         <p>Vendredi 19 décembre 2016</p>
         <h2>Sous-titre</h2>
         <p>Deuxième Commit</p>
+
+   
+        <h6> Casse couille </h6>
+
         <p>Test conflit</p>
+
     </body>
 </html>
