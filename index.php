@@ -16,5 +16,6 @@ and open the template in the editor.
         <p>Deuxième Commit</p>
         PFFF ESPECE DE CARTE ROND HAHAHAHAHHAH CARTE ROND =p 
         // héhéhéhé 8====))
+        <h6> Test conflit </h6>
     </body>
 </html>
